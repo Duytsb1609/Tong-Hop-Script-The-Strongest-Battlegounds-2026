@@ -7,4 +7,4 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝╚═╝
 ]]--
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Duytsb1609/Obfuscator.lua/refs/heads/main/8999945308206793.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Duytsb1609/Tonghop/refs/heads/main/TongHop.lua"))()
