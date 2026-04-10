@@ -7,4 +7,4 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝╚═╝
 ]]--
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Duytsb1609/Lua/refs/heads/main/6387527536704933.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Duytsb1609/Sigma/refs/heads/main/1945303514997894.lua"))()
